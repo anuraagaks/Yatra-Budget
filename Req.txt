@@ -1,0 +1,20 @@
+date 
+day
+person who wasted money
+money left in wallet
+
+home page:
+1.waterfall bg
+2.YB (yatra budget)
+3.desc
+4.3 bar menu
+
+features
+1. New tr
+2. part of 1 view tr	
+3. wallet at lft top
+4. get bill 
+5. places visited
+6. final total
+7. saved money
+8. warning for daily limit.
